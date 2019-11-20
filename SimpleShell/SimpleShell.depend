@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1570908885 source:/home/nada/Documents/SimpleShell/src/Parsing.cpp
+	"Parsing.h"
+	<stdlib.h>
+	<string.h>
+	"Forking.h"
+
+1570833865 /home/nada/Documents/SimpleShell/include/Parsing.h
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	<cstring>
+
+1570908734 source:/home/nada/Documents/SimpleShell/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/wait.h>
+	"Parsing.h"
+	"Forking.h"
+
+1570908867 source:/home/nada/Documents/SimpleShell/src/Forking.cpp
+	"Forking.h"
+	<sys/types.h>
+	<unistd.h>
+	<sys/types.h>
+	<stdio.h>
+	<sys/wait.h>
+	<signal.h>
+
+1570834501 /home/nada/Documents/SimpleShell/include/Forking.h
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	<cstring>
+
+1570834552 /home/nada/Documents/SimpleShell/include/SignalInterrupt.h
+
+1570909098 source:/home/nada/Documents/OS_Lab1/SimpleShell/main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<sys/wait.h>
+	"Parsing.h"
+	"Forking.h"
+
+1570833865 /home/nada/Documents/OS_Lab1/SimpleShell/include/Parsing.h
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	<cstring>
+
+1570834501 /home/nada/Documents/OS_Lab1/SimpleShell/include/Forking.h
+	<string>
+	<bits/stdc++.h>
+	<iostream>
+	<cstring>
+
+1570909083 source:/home/nada/Documents/OS_Lab1/SimpleShell/src/Forking.cpp
+	"Forking.h"
+	<sys/types.h>
+	<unistd.h>
+	<sys/types.h>
+	<stdio.h>
+	<sys/wait.h>
+	<signal.h>
+
+1570909088 source:/home/nada/Documents/OS_Lab1/SimpleShell/src/Parsing.cpp
+	"Parsing.h"
+	<stdlib.h>
+	<string.h>
+	"Forking.h"
+
